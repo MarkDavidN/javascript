@@ -1,0 +1,24 @@
+.h1{
+    text-align: center;
+    font-style: italic;
+}
+#label1{
+    display: block;
+    font-size: 100px;
+    text-align: center;
+}
+
+
+.btn {
+    display: flex;
+    justify-content: center;
+    gap: 10px; 
+    
+}
+.a{
+    background-color: rgb(111, 111, 131);
+}
+.a:hover{
+    background-color: rgb(7, 7, 86);
+    color: white;
+}
